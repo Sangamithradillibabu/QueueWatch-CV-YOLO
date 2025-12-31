@@ -1,4 +1,4 @@
-Poject OverView:
+Project OverView:
 This project focuses only on queue detection and monitoring, specifically designed for election polling booths. It uses a custom-trained YOLOv8 people detection model to count voters in a queue and classify the situation into risk levels for better crowd and resource management.
 
 Project Objective
